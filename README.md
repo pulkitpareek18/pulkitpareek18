@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and DSA**
 
-- 📫 How to reach me **pulkitpareek18@gmail.com**
+- 📫 How to reach me **pulkitpareekofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
