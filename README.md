@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/pulkitpareekofl" target="blank"><img src="https://img.shields.io/twitter/follow/pulkitpareekofl?logo=twitter&style=for-the-badge" alt="pulkitpareekofl" /></a> </p>
 
-- 🌱 I’m currently learning **React and DSA**
-
 - 📫 How to reach me **pulkitpareekofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
