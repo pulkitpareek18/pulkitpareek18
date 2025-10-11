@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pulkit Pareek</h1>
+<h1 align="center">Life is Beautiful</h1>
+
+<h2 align="center">Hi 👋, I'm Pulkit Pareek</h2>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitpareek18&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitpareek18" /> </p>
