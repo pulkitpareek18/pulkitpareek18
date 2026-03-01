@@ -20,12 +20,12 @@
 ## Current Projects
 
 - 🍭 **[IntelliMix](https://github.com/pulkitpareek18/IntelliMix)** - AI-powered audio transformation platform for mashups, trimming, batch processing, and export workflows.
+- 🧠 **[meraki](https://github.com/pulkitpareek18/meraki)** - Voice-first mental health support backend with Twilio, Ultravox, Gemini-based risk analysis, and monitoring dashboards.
+- 📺 **[streamhub](https://github.com/pulkitpareek18/streamhub)** - Personal IPTV web player with M3U parsing, HLS playback, filters, favorites, and EPG support.
 - 📚 **[LearnFlow-AI](https://github.com/pulkitpareek18/LearnFlow-AI)** - Adaptive learning system that converts PDFs into structured courses with AI tutoring and performance analytics.
-- ☎️ **[Hack4Delhi_Nagrik_Seva_AI](https://github.com/pulkitpareek18/Hack4Delhi_Nagrik_Seva_AI)** - Multilingual civic complaint voice agent for Delhi residents across Hindi, English, and Hinglish call flows.
-- 🎯 **[CareerGuidanceAI](https://github.com/pulkitpareek18/CareerGuidanceAI)** - AI career guidance workflow with personalized roadmaps, college discovery, and salary-oriented planning.
-- 🧠 **[AURA-Academic_Universal_Risk_Analyzer](https://github.com/pulkitpareek18/AURA-Academic_Universal_Risk_Analyzer)** - ML-based academic risk detection platform with interpretable insights and early intervention alerting.
+- 🎬 **[netflix](https://github.com/pulkitpareek18/netflix)** - High-traction streaming-style movie and series discovery web app with a fast single-page experience.
 - 🎛️ **[TubeMixr](https://github.com/pulkitpareek18/TubeMixr)** - Automated pipeline for extracting, trimming, and merging YouTube audio into continuous mixes.
-- 📞 **[twilio-incoming-ultravox-agent](https://github.com/pulkitpareek18/twilio-incoming-ultravox-agent)** - Voice-agent integration experiments for incoming Twilio calls and real-time conversational handling.
+- 🧪 **[Online-Exam-System-With-AI-Cheating-Detection](https://github.com/pulkitpareek18/Online-Exam-System-With-AI-Cheating-Detection)** - Online exam platform with AI-assisted proctoring and cheating detection concepts.
 - 🎬 **[media-processing-pipeline](https://github.com/pulkitpareek18/media-processing-pipeline)** - Multi-resolution video and audio processing pipeline for scalable media delivery.
 - ⚙️ **[gcc-riscv](https://github.com/pulkitpareek18/gcc-riscv)** - Working GCC cross-compiler toolchain targeting RISC-V with supporting compiler and ISA research notes.
 
