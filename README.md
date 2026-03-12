@@ -25,8 +25,6 @@
 
 > I move faster than most teams, ship with ruthless consistency, and turn bold ideas into products people actually use. From AI workflows to full-stack platforms, I execute at a level built to dominate.
 
-**77 public repos** | **33 followers** | **JavaScript, Python, TypeScript, and C/C++** | **AI, voice, media, identity, and systems**
-
 ## Current Projects
 
 ### AI + Identity
